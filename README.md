@@ -18,3 +18,7 @@ The use simply tells VisaMate their destination, for example "I am planning to s
 
 ## Setup Instructions
 
+1. Clone the repository: `git clone https://github.com/LiuCMU/visa_mate.git`
+2. Navigate to the project directory: `cd visa_mate`
+3. Run `adk web` to start the application.
+
